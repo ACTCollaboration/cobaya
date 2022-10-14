@@ -1,0 +1,9 @@
+# Mock BOSS BAO at a fixed known cosmology
+
+path: null
+measurements_file: bao_data/test_boss_mock_bao.txt
+cov_file: bao_data/test_boss_mock_bao_covtot.txt
+# Aliases for automatic covariance matrix
+aliases: [BAO]
+# Speed in evaluations/second
+speed: 2000

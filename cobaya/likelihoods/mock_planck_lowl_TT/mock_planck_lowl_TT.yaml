@@ -1,0 +1,6 @@
+# Mock Planck low-l TT
+
+path: /home/mmadhavacheril/repos/sw_cobaya/data/
+dataset_file: planck_mock/planck_mock_lowl_TT.dataset
+speed: 800
+

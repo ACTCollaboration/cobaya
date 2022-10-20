@@ -1,0 +1,6 @@
+# Mock Planck high-l TTTEEE
+
+path: /home/mmadhavacheril/repos/sw_cobaya/data/
+dataset_file: planck_mock/planck_mock_highl_TTTEEE.dataset
+speed: 800
+
